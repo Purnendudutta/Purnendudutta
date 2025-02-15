@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Purnendu Dutta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align="right" alt="Image" width="350" src="https://github.com/Purnendudutta/Purnendudutta/blob/main/coding.gif">
+
 - 🌱 I’m currently learning **Frameworks, Database, AI/ML, Mobile App Development, Backend Development, Frontend Development.**
 
 - 💬 Ask me about **JAVA, Python and HTML**
-
-- 📫 How to reach me **purnendudutta521@gmail.com**
 
 - ⚡ Fun fact **I am a BCA graduate.**
 
