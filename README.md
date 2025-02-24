@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="Image" width="300" src="https://github.com/Purnendudutta/Purnendudutta/blob/main/coding.gif"></img>
-<br><br>
+<br> <br>
 - 🌱 I’m currently learning **Frameworks, Database, AI/ML, Mobile App Development, Backend Development, Frontend Development.**
 
 - 💬 Ask me about **JAVA, Python and HTML**
