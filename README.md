@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/purnendu521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purnendu521" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/purnendu-dutta-723b58245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purnendu-dutta-723b58245" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/purnendudutta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Purnendu-Dutta" height="30" width="40" /></a>
 <a href="https://fb.com/purnendu.dutta.750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="purnendu.dutta.750" height="30" width="40" /></a>
 <a href="https://instagram.com/purnendudutta07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="purnendudutta07" height="30" width="40" /></a>
 <a href="https://dribbble.com/purnendu_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="purnendu_07" height="30" width="40" /></a>
