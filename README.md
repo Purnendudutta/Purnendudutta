@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAVA, Python and HTML**
 
-- ⚡ Fun fact **I am a BCA graduate.** 
+- ⚡ Fun fact **I am a BCA graduate.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
