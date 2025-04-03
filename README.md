@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Purnendu Dutta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="Image" width="300" src="https://github.com/Purnendudutta/Purnendudutta/blob/main/coding.gif"></img>
-<br> <br>
+<img align="right" alt="Image" width="300" height="200" src="https://github.com/Purnendudutta/Purnendudutta/blob/main/coding.gif"></img>
+
 - 🌱 I’m currently learning **Frameworks, Database, AI/ML, Mobile App Development, Backend Development, Frontend Development.**
 
 - 💬 Ask me about **JAVA, Python and HTML**
