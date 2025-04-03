@@ -23,7 +23,7 @@
 </p>
 
 <h2 align="center"> - Languages and Tools - </h2>
-<img align="right" alt="Image" width="300" height="200" src=""></img>
+<!-- <img align="right" alt="Image" width="300" height="200" src=""></img> -->
 
 <h3>Programming Languages - </h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
