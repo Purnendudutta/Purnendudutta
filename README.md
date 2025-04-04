@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Purnendu Dutta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="Image" width="300" height="200" src="https://github.com/Purnendudutta/Purnendudutta/blob/main/coding.gif"></img>
+<img align="right" alt="Image" width="300" height="260" src="https://github.com/Purnendudutta/Purnendudutta/blob/main/coding.gif"></img>
 
 - 🌱 I’m currently learning **Frameworks, Database, AI/ML, Mobile App Development, Backend Development, Frontend Development.**
 
 - 💬 Ask me about **JAVA, Python and HTML**
   
 - ⚡ Fun fact **I am a BCA graduate.**
-<br>
-<p align="left"> <a href="https://twitter.com/purnendu_7" target="blank"><img src="https://img.shields.io/twitter/follow/purnendu_7?logo=twitter&style=for-the-badge" alt="purnendu_7" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/purnendu_7" target="blank"><img src="https://img.shields.io/twitter/follow/purnendu_7?logo=twitter&style=for-the-badge" alt="purnendu_7" /></a> </p>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/purnendu521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purnendu521" height="30" width="40" /></a>
@@ -69,8 +68,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact" alt="purnendudutta" /></p>
+<p><img align="left" height="200" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact" alt="purnendudutta" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnendudutta&show_icons=true&locale=en" alt="purnendudutta" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendudutta&" alt="purnendudutta" /></p>
+<p><img align="center" height="25%" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendudutta&" alt="purnendudutta" /></p>
