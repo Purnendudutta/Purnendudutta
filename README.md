@@ -8,6 +8,8 @@
 - 💬 Ask me about **JAVA, Python and HTML**
   
 - ⚡ Fun fact **I am a BCA graduate.**
+<br>
+<p align="left"> <a href="https://twitter.com/purnendu_7" target="blank"><img src="https://img.shields.io/twitter/follow/purnendu_7?logo=twitter&style=for-the-badge" alt="purnendu_7" /></a> </p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -65,11 +67,10 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
+---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact" alt="purnendudutta" /></p>
 
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnendudutta&show_icons=true&locale=en" alt="purnendudutta" /></p>-->
 
-<p><img align="left" height="182" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact" alt="purnendudutta" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnendudutta&show_icons=true&locale=en" alt="purnendudutta" /></p> -->
-
-<p><img align="center" height="182" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendudutta&" alt="Purnendu Dutta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendudutta&" alt="purnendudutta" /></p>
