@@ -67,8 +67,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 
 ---
-<p><img align="left" height="200" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact" alt="purnendudutta" /></p>
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact" alt="purnendudutta" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purnendudutta&show_icons=true&locale=en" alt="purnendudutta" /></p>-->
 
-<p><img align="center" height="25%" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendudutta&" alt="purnendudutta" /></p>
+<p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendudutta&" alt="purnendudutta" /></p>
