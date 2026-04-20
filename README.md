@@ -143,8 +143,8 @@
 </picture>
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact"
-    alt="purnendudutta" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Purnendudutta&show_icons=true&locale=en&layout=compact"
+    alt="Purnendudutta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purnendudutta&"
-    alt="purnendudutta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Purnendudutta&"
+    alt="Purnendudutta" /></p>
