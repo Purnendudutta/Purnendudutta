@@ -135,6 +135,13 @@
       alt="vuejs" width="40" height="40" /> </a>
 </p>
 
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purnendudutta/Purnendudutta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purnendudutta/Purnendudutta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Purnendudutta/Purnendudutta/output/pacman-contribution-graph.svg">
+</picture>
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=purnendudutta&show_icons=true&locale=en&layout=compact"
     alt="purnendudutta" /></p>
